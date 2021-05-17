@@ -1,10 +1,4 @@
-# ![React + Redux News App](logo.svg)
-
-
-
-
-
-
+###React + Redux News App
 
 using newsapi.org to show latest news 
 
