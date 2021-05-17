@@ -1,4 +1,4 @@
-###React + Redux News App
+### React + Redux News App
 
 using newsapi.org to show latest news 
 
